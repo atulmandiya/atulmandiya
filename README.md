@@ -13,7 +13,7 @@
 </p>
 </div>
 ---
-🚀 About Me
+<h1 ><b>🚀 About Me<b></h1>
 🔭 Building full-stack web applications and practical software projects
 🌱 Currently strengthening MERN, Java, DSA, REST APIs & databases
 💡 Interested in Full Stack Development, Backend Development & AI/ML
