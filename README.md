@@ -1,6 +1,5 @@
 <div align="center">
 <h1><b>👋 Hi, I'm Atul Mandiya</b></h1>
-  
 💻 Full Stack (MERN) Developer | Java | Python | Problem Solver
 
 <p>
