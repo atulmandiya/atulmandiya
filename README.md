@@ -1,5 +1,5 @@
 <div align="center">
-👋 Hi, I'm Atul Mandiya
+<b>👋 Hi, I'm Atul Mandiya</b>
   
 💻 Full Stack (MERN) Developer | Java | Python | Problem Solver
 
@@ -12,7 +12,7 @@
   </a>
 </p>
 </div>
----
+<hr>
 <h1 ><b>🚀 About Me<b></h1>
 🔭 Building full-stack web applications and practical software projects
 🌱 Currently strengthening MERN, Java, DSA, REST APIs & databases
@@ -20,7 +20,7 @@
 🧠 I enjoy turning ideas into useful, working applications
 🤝 Open to internships, collaborations and interesting projects
 📫 Reach me at atulmandiya12@gmail.com
----
+<hr>
 🛠️ Tech Stack
 💻 Languages
 <p>
@@ -38,7 +38,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools and Platforms"/>
 </p>
----
+<hr>
 📊 GitHub Analytics
 <p align="center">
   <a href="https://github.com/atulmandiya">
@@ -52,19 +52,19 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atulmandiya&theme=github_dark" alt="GitHub Profile Details"/>
 </p>
----
+<hr>
 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=atulmandiya&theme=tokyonight&hide_border=true" alt="Atul's GitHub Contribution Streak"/>
 </p>
----
+<hr>
 📅 Contribution Activity
 <p align="center">
   <a href="https://github.com/atulmandiya">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulmandiya&theme=tokyo-night&hide_border=true&area=true" alt="Atul's GitHub Activity Graph"/>
   </a>
 </p>
----
+<hr>
 📌 Featured Projects
 > 
 <p align="center">
@@ -83,7 +83,7 @@ When you give me your repository names, replace the block above with cards like 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=atulmandiya&repo=REPO_2&theme=tokyonight&hide_border=true" alt="Project 2"/>
   </a>
 </p>
----
+<hr>
 📦 GitHub Overview
 <p align="center">
   <a href="https://github.com/atulmandiya?tab=repositories">
@@ -96,9 +96,9 @@ When you give me your repository names, replace the block above with cards like 
     <img src="https://img.shields.io/badge/Profile-Visit%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </p>
----
+<hr>
 🧩 What I Work With
-```
+
 Frontend       → HTML • CSS • Bootstrap • JavaScript • React • Tailwind
 Backend        → Node.js • Express • REST APIs
 Databases      → MongoDB • MySQL • PostgreSQL
