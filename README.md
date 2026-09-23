@@ -1,6 +1,8 @@
 <div align="center">
 👋 Hi, I'm Atul Mandiya
+  
 💻 Full Stack (MERN) Developer | Java | Python | Problem Solver
+
 <p>
   <a href="https://github.com/atulmandiya">
     <img src="https://img.shields.io/github/followers/atulmandiya?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
@@ -64,7 +66,7 @@
 </p>
 ---
 📌 Featured Projects
-> ⭐ Add your best 3–4 repositories here. I have intentionally kept this section link-safe rather than inventing repository names that were not present in the original README.
+> 
 <p align="center">
   <a href="https://github.com/atulmandiya?tab=repositories">
     <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Projects-View%20Repositories-7F52FF?style=for-the-badge" alt="Explore Projects"/>
@@ -96,7 +98,7 @@ When you give me your repository names, replace the block above with cards like 
 </p>
 ---
 🧩 What I Work With
-```text
+```
 Frontend       → HTML • CSS • Bootstrap • JavaScript • React • Tailwind
 Backend        → Node.js • Express • REST APIs
 Databases      → MongoDB • MySQL • PostgreSQL
